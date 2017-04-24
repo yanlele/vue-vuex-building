@@ -1,6 +1,6 @@
 # vuex-demo
 
-> A Vue.js project
+> 这里是单页面应用集成了vue-router,vuex等简单用法的demo。
 
 ## Build Setup
 
